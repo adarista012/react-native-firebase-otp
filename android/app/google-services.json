@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1028982735021",
+    "project_id": "react-native-otp-79278",
+    "storage_bucket": "react-native-otp-79278.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1028982735021:android:b0ba2f8df3c25dcecfc624",
+        "android_client_info": {
+          "package_name": "com.reactnativeotp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjunvayGlUcAr4lmNXSoMmSPoFoNIpoR8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
