@@ -33,3 +33,7 @@ npm run ios
 # OR using Yarn
 yarn ios
 ```
+![Uploading ezgif.com-video-to-gif-converter.gif…]()
+
+![Uploading Simulator Screenshot - iPhone 15 Pro - 2024-05-13 at 17.49.31.png…]()
+![Uploading Simulator Screenshot - iPhone 15 Pro - 2024-05-13 at 17.49.20.png…]()
